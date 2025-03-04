@@ -20,8 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  [[https://github.com/lorenax55]](Lorena Cáceres Arias)    :octocat:     
- * :bust_in_silhouette:  [[https://github.com/LeugimPipe]](Miguel Piñar Pérez)     :octocat:
+ * :bust_in_silhouette:  [[Lorena Cáceres Arias]](https://github.com/lorenax55)    :octocat:     
+ * :bust_in_silhouette:  [[Miguel Piñar Pérez]](https://github.com/LeugimPipe)     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
