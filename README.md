@@ -5,11 +5,11 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 Grupo: DIU3.Maguitos  Curso: 2024/25 
 
-Actualizado: 04/03/2025
+Actualizado: 04/18/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Kerarkeo, arqueología, cerámica y patrimonio
 
 Descripción: 
 
@@ -23,7 +23,6 @@ Miembros:
  * :bust_in_silhouette:  [[Lorena Cáceres Arias]](https://github.com/lorenax55)    :octocat:     
  * :bust_in_silhouette:  [[Miguel Piñar Pérez]](https://github.com/LeugimPipe)     :octocat:
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
 
@@ -37,28 +36,24 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
+Hemos seleccionado esta web por encima de otras por su márgen de mejora y su enfoque. Está todo más detallado en la P1.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
-
+Hemos analizado como competencia otras webs de venta de cerámica como https://pepamoreno.com/tienda-online y de talleres culturales como https://tonypotter.es. Está todo más detallado en la P1.
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+>>> falta subir las capturas 
 
 
 ### 1.d User Journey Map
