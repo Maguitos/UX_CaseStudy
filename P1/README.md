@@ -7,5 +7,7 @@
 - Revisión de Usabilidad 
 
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+- DIU P1: Documento con toda la información de análisis que se nos pedía.
+- Persona & User Journey Map 1 y 2: Se añade el fig y el pdf sobre las personas con su journey map
+- Usability-review: PDF con la información de la usabilty review completa.
+- Usability-review-template-2: PDF con la plantilla usada para generar el PDF anterior.
