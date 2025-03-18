@@ -115,9 +115,9 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 ![Método UX](img/JourneyMap.png) 
 ----
 
-![Journey Map](UserJourneyMap1.png)
+![Journey Map](img/UserJourneyMap1.png)
 
-![Journey Map](UserJourneyMap2.png)
+![Journey Map](img/UserJourneyMap2.png)
 
 
 ### 1.e Usability Review
