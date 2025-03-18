@@ -41,13 +41,66 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-Hemos seleccionado esta web por encima de otras por su márgen de mejora y su enfoque. Está todo más detallado en la P1.
+El contexto en el que los sitios web a evaluar se encuentran es uno de actividades
+culturales, centrado en el reciclaje y la artesanía. Los sitios están asociados a empresas o
+grupos que se dedican a este campo. Estos grupos producen objetos (prendas de ropa,
+piezas de cerámica u otras piezas de artesanía), a menudo a partir de materiales reciclados
+o materias primas, soliendo usar métodos tradicionales o artesanales. Algunos ofrecen a
+participantes del público general colaborar en el proceso de creación mediante talleres, y
+exponen las obras que también se ponen en venta en muchos casos.
+Por tanto, para el análisis de usabilidad y experiencia de usuario en estos sitios, se podrían
+utilizar métodos como entrevistas a potenciales usuarios, personas y mapas de
+experiencias de usuario para estas tareas, o análisis de analíticas.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+# Análisis de Competencia en el Sector de la Cerámica, Restauración Arqueológica y Artesanía  
 
-Hemos analizado como competencia otras webs de venta de cerámica como https://pepamoreno.com/tienda-online y de talleres culturales como https://tonypotter.es. Está todo más detallado en la P1.
+Se ha realizado un análisis de varias páginas web que operan en el sector de la cerámica, la restauración arqueológica y la artesanía, con el fin de evaluar sus fortalezas y debilidades en comparación con **KERARQUEO**. A continuación, se presenta un breve análisis de tres competidores relevantes y la justificación de la selección de **KERARQUEO** para esta práctica.  
+
+---
+
+## 1. [www.kerarqueo.com](http://www.kerarqueo.com)  
+
+### **Fortalezas**  
+- Contenido completo y detallado sobre los servicios ofrecidos.  
+- Fotografías que reflejan el trabajo artesanal.  
+- Formulario de contacto y ubicación.  
+
+### **Debilidades**  
+- Navegabilidad deficiente, con transiciones poco intuitivas entre secciones.  
+- Diseño desactualizado, con falta de jerarquía visual clara.  
+- Fotos de baja calidad.  
+- No incluye un sistema de tienda online optimizado para facilitar la compra de productos.  
+
+---
+
+## 2. [https://pepamoreno.com/tienda-online](https://pepamoreno.com/tienda-online)  
+
+### **Fortalezas**  
+- Diseño visual atractivo y moderno, con imágenes de productos bien organizadas.  
+- Experiencia de usuario optimizada para la compra en línea, con filtros y categorías.  
+- Blog educativo con contenido sobre cerámica y procesos de restauración.  
+
+### **Debilidades**  
+- Enfoque más comercial, menos centrado en la restauración arqueológica.  
+- Información más generalista, sin destacar procesos específicos de conservación.  
+
+---
+
+## 3. [https://tonypotter.es](https://tonypotter.es)  
+
+### **Fortalezas**  
+- Multitud de actividades para todas las edades.  
+- Documentación técnica disponible para profesionales del sector.  
+- Opción en inglés y en español.  
+
+### **Debilidades**  
+- Nada centrado en el patrimonio y la conservación.  
+- No tiene una tienda online, lo que limita su público a clientes profesionales.  
+
+
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
