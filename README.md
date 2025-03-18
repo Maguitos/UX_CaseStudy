@@ -106,8 +106,7 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 ![Método UX](img/Persona.png) 
 -----
 
->>> falta subir las capturas 
-
+![Persona 1](img/Persona #1 (1).png)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
