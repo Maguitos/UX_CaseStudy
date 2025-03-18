@@ -108,11 +108,16 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 
 ![Persona 1](img/Persona1.png)
 
+![Persona 1](img/Persona2.png)
+
+
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+![Journey Map](UserJourneyMap1.png)
+
+![Journey Map](UserJourneyMap2.png)
 
 
 ### 1.e Usability Review
