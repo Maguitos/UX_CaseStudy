@@ -133,22 +133,11 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+![Capture Grid](img/feedbackCG.png) 
 
 
 ### 2.b ScopeCanvas
@@ -170,12 +159,26 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![Capture Grid](img/homepageIA.png) 
+![Capture Grid](img/wikiIA.png) 
+Lo siento no he podido evitar el spanglish no se hablar ninguno de los dos idiomas.
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+  Sobre nosotros  | Info general de la empresa y sus creadoras
+  Contacto | Formulario de contacto y link a redes
+  Catálogo | Tienda en forma de lista 
+  Cursos | Listado con información de los cursos
+  Login | pagina para inicar sesión
+  Pago | Página para pagar los cursos
+  Wiki | Mapa con localizaciones y acceso a las secciones con entradas
+  Lugares | Lista de entradas en la wiki con la etiqueta lugar
+  Culturas y Civilizaciones | Lista de entradas en la wiki con la etiqueta cultura o civilización
+  Criaturas y Especies | Lista de entradas en la wiki con la etiqueta criatura o especie
+  Objetos | Lista de entradas en la wiki con la etiqueta objeto
+  Historia y Mitología | Lista de entradas en la wiki con la etiqueta historia o mitología
+
+
 
 
 ### 2.d Wireframes
