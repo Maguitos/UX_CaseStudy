@@ -165,7 +165,20 @@ Lo siento no he podido evitar el spanglish no se hablar ninguno de los dos idiom
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+  Sobre nosotros  | Info general de la empresa y sus creadoras
+  Contacto | Formulario de contacto y link a redes
+  Catálogo | Tienda en forma de lista 
+  Cursos | Listado con información de los cursos
+  Login | pagina para inicar sesión
+  Pago | Página para pagar los cursos
+  Wiki | Mapa con localizaciones y acceso a las secciones con entradas
+  Lugares | Lista de entradas en la wiki con la etiqueta lugar
+  Culturas y Civilizaciones | Lista de entradas en la wiki con la etiqueta cultura o civilización
+  Criaturas y Especies | Lista de entradas en la wiki con la etiqueta criatura o especie
+  Objetos | Lista de entradas en la wiki con la etiqueta objeto
+  Historia y Mitología | Lista de entradas en la wiki con la etiqueta historia o mitología
+
+
 
 
 ### 2.d Wireframes
