@@ -159,8 +159,8 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-![Capture Grid](img/homepageIA.png) 
-![Capture Grid](img/wikiIA.png) 
+![Sitemap 1](img/homepageIA.png) 
+![Sitemap 2](img/wikiIA.png) 
 Lo siento no he podido evitar el spanglish no se hablar ninguno de los dos idiomas.
 
 Término | Significado     
@@ -184,8 +184,10 @@ Término | Significado
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+![Prototipo papel](img/prototipo_entrada.jpeg) 
+![Prototipo papel](img/prototipo_wiki.jpeg) 
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+
 
 <br>
 
