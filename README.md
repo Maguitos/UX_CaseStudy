@@ -13,7 +13,8 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra propuesta de valor para la página de Kerarqueo es un modelo de cursos de cerámica enfocados a la ampliación de lore de un mundo de fantasía inspirado en la andalucía medieval. Se ofrecerían cursos de distinto tipo y para distintas edades, pero todos enfocados a la creación o decoración de piezas de cerámica. En ellos, guiados por el profesor, se generarían ideas para ir añadiendo al mundo de fantasía, y todo esto quedaría registrado en una wiki que puede ser consultada y navegada. La wiki tendrá como página principal un mapa, mostrando localizaciones importantes, y está dividida en varias secciones con entradas conectadas entre ellas.
+
 
 Logotipo: 
 
