@@ -27,10 +27,6 @@ Miembros:
 
 ----- 
 
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
 # Proceso de Diseño 
 
 <br>
@@ -144,9 +140,6 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
-
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
 ![Scope Canvas](img/2bScopeCanvas.png)
 
