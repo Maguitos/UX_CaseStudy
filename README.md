@@ -109,16 +109,16 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 
 ![Persona 1](img/Persona1.png)
 
-![Persona 1](img/Persona2.png)
+![Persona 2](img/Persona2.png)
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
-![Journey Map](img/UserJourneyMap1.png)
+![Journey Map 1](img/UserJourneyMap1.png)
 
-![Journey Map](img/UserJourneyMap2.png)
+![Journey Map 2](img/UserJourneyMap2.png)
 
 
 ### 1.e Usability Review
@@ -148,7 +148,7 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
-
+![Scope Canvas](img/2bScopeCanvas.png)
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
