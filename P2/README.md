@@ -17,8 +17,8 @@ Esto fue lo primero que desarrollamos. Partimos de una idea fruto de plantear va
 Para favorecer un buen diseño, se puede realizar un análisis de tareas de usuario, con por ejemplo, un diagrama de flujo de las tareas principales de los usuarios en nuestro producto.
 Aquí mostramos los diagramas para las tareas "Apuntarse a un curso" y "Comprar una pieza".
 
-![Task Analysis 1](TaskAnalysis1_ApuntarseAUnCurso.png)
-![Task Analysis 2](img/TaskAnalysis2_ComprarUnaPieza.png)
+![Task Analysis 1](../img/TaskAnalysis1_ApuntarseAUnCurso.png)
+![Task Analysis 2](../img/TaskAnalysis2_ComprarUnaPieza.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
