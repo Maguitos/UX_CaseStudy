@@ -150,8 +150,8 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 Para favorecer un buen diseño, se puede realizar un análisis de tareas de usuario, con por ejemplo, un diagrama de flujo de las tareas principales de los usuarios en nuestro producto.
 Aquí mostramos los diagramas para las tareas "Apuntarse a un curso" y "Comprar una pieza".
 
-![Task Analysis 1](img/Task Analysis 1_ Apuntarse a un curso.png)
-![Task Analysis 2](img/Task Analysis 2_ Comprar una pieza.png)
+![Task Analysis 1](TaskAnalysis1_ApuntarseAUnCurso.png)
+![Task Analysis 2](img/TaskAnalysis2_ComprarUnaPieza.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
