@@ -179,7 +179,11 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 ![Prototipo papel](img/prototipo_entrada.jpeg) 
-![Prototipo papel](img/prototipo_wiki.jpeg) 
+![Prototipo papel](img/prototipo_wiki.jpeg)
+
+![Wireframe figma Landing Page](img/2d21LandingPage.png)
+![Wireframe figma Wiki Main Page](img/2d22WikiMainPage.png)
+![Wireframe figma Wiki Page](img/2d23WikiPage.png)
 
 
 
