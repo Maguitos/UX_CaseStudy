@@ -24,7 +24,9 @@ Esto fue lo primero que desarrollamos. Partimos de una idea fruto de plantear va
 ![Sitemap 1](../img/homepageIA.png) 
 ![Sitemap 2](../img/wikiIA.png) 
 * Labelling
-  | ------------- | -------
+
+Término | Significado     
+| ------------- | -------
   Sobre nosotros  | Info general de la empresa y sus creadoras
   Contacto | Formulario de contacto y link a redes
   Catálogo | Tienda en forma de lista 
@@ -44,9 +46,13 @@ Hemos hecho una estrucutra muy genérica para el inicio y la parte de inicio de 
 ![Prototipo papel](../img/prototipo_entrada.jpeg) 
 ![Prototipo papel](../img/prototipo_wiki.jpeg)
 
+Primero planeamos rápidamente en papel lo que ibamos a necesitar para poder visualizarlo y estar ambos alineados en visión.
+
 ![Wireframe figma Landing Page](../img/2d21LandingPage.png)
 ![Wireframe figma Wiki Main Page](../img/2d22WikiMainPage.png)
 ![Wireframe figma Wiki Page](../img/2d23WikiPage.png)
+
+Tras esto nos pusimos con el wireframe en figma. Hemos intentado dejar una buena estrucutra y jerarquia dentro del archivo para poder iterar sobre él más adelante. 
 
 ### Conclusiones  
 Creemos que tenemos una prpuesta de valor sólida y original. Hemos intentado usar lo que se nos propone como el Scope Canvas y el Capture Grid como herramientas de generación y no solo pdfs que rellenar, y creo que ese workflow es extrapolable a otros proyectos. Siempre es un gusto poder llevarte cosas así de una asignatura para el futuro.
