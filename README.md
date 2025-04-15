@@ -147,7 +147,11 @@ Se ha realizado un análisis de varias páginas web que operan en el sector de l
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+Para favorecer un buen diseño, se puede realizar un análisis de tareas de usuario, con por ejemplo, un diagrama de flujo de las tareas principales de los usuarios en nuestro producto.
+Aquí mostramos los diagramas para las tareas "Apuntarse a un curso" y "Comprar una pieza".
+
+![Task Analysis 1](img/Task Analysis 1_ Apuntarse a un curso.png)
+![Task Analysis 2](img/Task Analysis 2_ Comprar una pieza.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
