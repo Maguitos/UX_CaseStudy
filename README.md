@@ -201,40 +201,40 @@ Término | Significado
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+Hemos usado la plantilla de clase para el moodboard.
+![Wireframe figma Wiki Page](P3/MoodboardMaguitos.png)
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
+Ha sido un trabajo colaborativo y hemos usado la mayoría de los recursos generados para el prototipo.
+No hemos cambiado el logo más allá de aplicar los colores de la nueva paleta de colores y añadir un círculo que hace de marco.
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+![Wireframe figma Wiki Page](P3/Landing.PNG)
 
+La landing nos equivocamos y al principio la hicimos para PC, pero luego la adaptamos a móvil.
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
+Probablemente no nos de tiempo de terminar las guidelines ;P
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+#Pipe mete eso cuando acabes
 
+Para el mockup hemos decidido no añadir el catálogo porque añadía demasiada complejidad y no aporta para lo que queremos mostrar. Hemos mantenido las reservas de cursos, pero sin funcionalidad.
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+Se puede ver el prototipo aquí:
+https://www.figma.com/design/6aF791fwLtDBTPk2tSRQsW/Landing-kerarkeo?node-id=937-76&t=GXqlPOnVXwyyyNFV-1
 
 <br>
 
