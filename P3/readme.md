@@ -1,11 +1,13 @@
-# DIU - Practica 3, entregables
+# DIU - Practica 3
 
-- Moodboard (diseño visual + logotipo)   
+- Moodboard (diseño visual + logotipo)
+  
 - Landing Page
+
 - Mockup: LAYOUT HI-FI
+  
 - Publicación del Case Study
+  Se puede interactuar con el prototipo aquí:
+https://www.figma.com/design/6aF791fwLtDBTPk2tSRQsW/Landing-kerarkeo?node-id=937-76&t=GXqlPOnVXwyyyNFV-1
 
 ## Conclusiones
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
