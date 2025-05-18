@@ -225,9 +225,27 @@ Probablemente no nos de tiempo de terminar las guidelines ;P
 ![Método UX](img/mockup.png) 
 ----
 
-#Pipe mete eso cuando acabes
-
 Para el mockup hemos decidido no añadir el catálogo porque añadía demasiada complejidad y no aporta para lo que queremos mostrar. Hemos mantenido las reservas de cursos, pero sin funcionalidad.
+
+Tras pulsar el botón en la página de Landing, vamos a la página principal, en la que está la información básica y enlaces a las distintas áreas del sitio.
+
+![Main Page](P3/MainPage.png)
+
+Los contenidos están en un frame, añadido varias veces. La duplicación de las pantallas permite navegar directamente a los contenidos relevantes desde los enlaces pertinentes del menú lateral:
+
+![Side Menu](P3/MainPageMenu.png)
+
+Navegando hacia la wiki se nos muestra la página principal de esta, manteniendo el mapa, con navegación en todas direcciones, pero sin zoom.
+
+![Wiki main page](P3/WikiMainPage.png)
+
+Pulsar sobre cada pin muestra un bocadillo con una descripción. El título del bocadillo es un enlace a la página de la wiki del elemento.
+
+![Wiki Bubble](P3/WikiMainPageBubble.png)
+
+![Wiki example](WikiPages.png)
+
+Desde el menú natural se puede acceder a la página de inicio de sesión de la wiki. Además se puede ir a la página de discusión del artículo, pero debido a limitaciones de Figma todos los enlaces a "Discusión" llevan a esta misma discusión, aunque debería haber una por artículo. El enlace a "Página" tiene un problema análogo.
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
