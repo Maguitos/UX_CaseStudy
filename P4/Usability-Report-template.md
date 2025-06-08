@@ -24,7 +24,7 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+Grupo Maguitos. Tras entrar en contacto profundo con el proyecto y el prototipo, hemos diseñado unos test y los hemos compartido con algunas personas para que nos den su opinión.
 
 
 
@@ -38,8 +38,7 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
-
+ECOGOLLO es una aplicación móvil que trata de servir a productores y consumidores de productos ecológios para que la experiencia de compra venta, distribución y entrega sea mucho más fluida y compacta. Busca una experiencia de usuario amena y amigable.
  
 
 
@@ -48,11 +47,12 @@
 
 
 
-[ Breve descripción de lo que contiene el documento 
+Este documento recoge el análisis de usabilidad realizado sobre la aplicación móvil ECOGOLLO, diseñada para facilitar la compraventa y distribución de productos ecológicos. Se ha aplicado una prueba de usabilidad centrada en la evaluación mediante el cuestionario SUS, con participación de usuarios de distintos perfiles y niveles de experiencia tecnológica.
 
-y Resumen conciso de problemas detectados ]
+Problemas detectados
+- El diseño del sitio, aunque funcional, resultó poco atractivo para algunos usuarios.
 
-
+- El sistema de carrito estaba incompleto, lo que generó confusión durante las pruebas.
 
 
 
@@ -64,14 +64,15 @@ y Resumen conciso de problemas detectados ]
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+Se ha empleado una evaluación de tipo **formativa**, utilizando el cuestionario **SUS (System Usability Scale)** como herramienta principal de análisis. La prueba se realizó en entorno controlado con observación directa y posterior análisis cuantitativo. También se recopiló feedback cualitativo de los participantes al finalizar la sesión.
 
- 
+### Test de usuarios: Participantes
 
-#### Test de usuarios: Participantes
-
-[tabla, ejemplo, descripción demográfica de los participantes]
-
+| Usuario  | Sexo | Edad | Ocupación            | Experiencia TIC | Perfil                                   |
+|----------|------|------|----------------------|------------------|-------------------------------------------|
+| #USER1   | H    | 49   | Dibujante            | Media            | Usuario creativo, poco técnico            |
+| #USER2   | M    | 51   | Enfermera            | Media-Alta       | Usuario funcional, busca claridad         |
+| #USER3   | NB   | 22   | Estudiante Filología | Media            | Joven con interés en apps prácticas       |
 
 
 
@@ -80,50 +81,38 @@ y Resumen conciso de problemas detectados ]
 
 
 
-(resultado de SUS)
-
+- USER3: 80 _(Aceptable tipo C)_
+- USER4: 72,5 _(Aceptable tipo B)_
+- USER5: 90 _(Aceptable tipo A)_
 
 
 (resultado de eyetracking)
 
 
 
+## 4. CONCLUSIONES
 
+Las pruebas de usabilidad indican que la aplicación ECOGOLLO es usable, aunque con margen de mejora. La mayoría de usuarios comprendieron bien la navegación y destacaron la claridad general, aunque el diseño visual no les resultó especialmente atractivo. El sistema de carrito fue el principal foco de confusión.
 
+### Incidencias
 
+- El carrito estaba incompleto y no permitía realizar una prueba completa del proceso de compra.
 
+### Valoración
 
+**Puntos positivos:**
+- Navegación clara.
+- Modo noche funcional.
+- Breadcrumb útil.
+- Se notó el esfuerzo en añadir login y estructura de menús.
 
-## 4 CONCLUSIONES 
+### Recomendaciones y propuestas de mejora
 
+**Puntos de mejora:**
+- Completar y simplificar el sistema de carrito.
+- Mejorar la estética general (colores, tipografía, iconos).
+- Revisar la consistencia de los menús.
 
+### Valoración de la prueba de usabilidad (self-assessment)
 
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
-
-#### Incidencias
-
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
-
-#### Valoración 
-
-* (Puntos Positivos a destacar)
-
-
-
-#### Recomendaciones y propuesta de mejoras: 
-
-* (Puntos de mejora)
-
-
-
-
-
-
-
-#### Valoración de la prueba de usabilidad (self-assesment)
-
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Aunque no le he dedicado mucho tiempo a esta práctica, las técnicas han sido útiles para detectar errores que no se habrían visto solo con revisión interna. El cuestionario SUS da una idea clara del estado general de la app.
