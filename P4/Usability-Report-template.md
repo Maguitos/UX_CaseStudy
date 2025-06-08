@@ -6,17 +6,17 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### Ecogollo
 
-### (Fecha)
-
-
+### 1 de junio de 2025
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+
+![Logo Ecogollo](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P3/Logo.png)
+
+https://github.com/DIU1-SMJV/UX_CaseStudy
 
 
 
