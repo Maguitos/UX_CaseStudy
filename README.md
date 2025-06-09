@@ -312,7 +312,7 @@ Se comprobará también la usabilidad de los dos productos con la checklist de u
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
-[Resultado del cuestionario SUS.]()
+[Resultado del cuestionario SUS.](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/P4-Cuestionario-SUS-DIU%20.xlsx)
 
 | Producto | Puntuación media| Etiqueta |
 | ------------- | -------- | ----------- |
