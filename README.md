@@ -280,25 +280,69 @@ ECOGOLLO es una aplicación móvil que trata de servir a productores y consumido
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Como nuestros dos casos eran bastante diferentes, hemos hecho dos cuestionarios.
+Pruebas para caso A:
+Encontrar el botón de los cursos.
+Encuentra la portada de la Wiki.
+Abre la página de discusión de un (en realidad, el único) artículo de la Wiki que hay. Se pide que se abra la página desde el artículo para simular el comportamiento de la wiki mejor.
 
+Después de cada prueba, se pide a los usuarios puntuar del 1 al 5 cómo de difícil les ha resultado hacer la tarea.
+Y por último se pide a los usuarios que describan con una palabra la aplicación.
+
+Posteriormente se pide que rellenen el cuestionario SUS.
+
+Pruebas para caso B:
+Iniciar Sesión.
+Añadir un producto concreto (cerezas) al carrito.
+Cambiar a modo noche
+Se le plantea al usuario hacer las 3 tareas y puntuar lo fácil que le ha resultado cada una.
+Se deja un espacio libre para comentar de forma libre.
+
+Las pruebas se hicieron con Maze. Enlace: https://t.maze.co/395162576
+
+Posteriormente se pide que rellenen el cuestionario SUS.
+
+A un usuario se le hizo una prueba de eyetracking con Gaze Recorder:
+https://app.gazerecorder.com/Study/Test?StudyID=bf96e2b5037b02e4f0f65f0421847133&lang=en&RespondentID=null
+Debido a cómo funciona Gaze Recorder solo fue posible recoger datos de Eye Tracking para un solo usuario en 5 capturas de la aplicación.
+
+Se comprobará también la usabilidad de los dos productos con la checklist de usabilidad de la Práctica 1.
 
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
+[Resultado del cuestionario SUS.]()
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+| Producto | Puntuación media| Etiqueta |
+| ------------- | -------- | ----------- |
+| A | 76,875 | B (Excellent) |
+| B | 80,83 | A (The Best) |
+
+Podemos ver que B tiene mejor puntuación de usabilidad que A. Esto probablemente se debe a que el diseño de A es más sencillo de utilizar y más simple. En B se la da más prioridad a mostrar el área que es más importante a los usuarios y empresa (la compra venta) mientras que en B no (los cursos).
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Se exponen aquí los resultados de las pruebas sobre los dos productos, aunque no son del todo comparables debido a que los dos productos son bastante diferentes.
+#### Resultados de A
+
+| | Dani | Mayte | Margarita | María José | Media |
+| - | - | - | - | - | - |
+| Encontrar el botón de reserva | 1 | 2 | 2 | 5 (Se rinde) | 2,5 |
+| Encontrar portada de la wiki | 1 | 1 | 2 | 5 (Se rinde) | 2,25 |
+| Encontrar página de discusión de un artículo | 5 (Se rinde) | 2 | 5 (Se rinde) | 5 (Se rinde) | 4,25 |
+| Palabra | Útil | Amigable | Original | Diferente |
+
+Varios participantes destacaron que la reserva de cursos debería mostrarse antes de la wiki en la página principal, y que no era fácil ver que se podía llegar a un artículo de la wiki desde el bocadillo de descripción en los pines del mapa. Aunque en una wiki realmente funcional podría haber más de una manera de llegar a un artículo, por lo que a los encuestados les habría resultado más sencillo encontrar un artículo.
+
+#### Checklist de usabilidad
+[Caso A]()
+[Caso B]()
+
+Podemos ver que de acuerdo con el checklist, como con el cuestionario SUS, que el caso B es más usable que el A.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
