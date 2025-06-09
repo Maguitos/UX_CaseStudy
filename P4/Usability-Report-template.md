@@ -88,7 +88,7 @@ Se ha empleado una evaluación de tipo **formativa**, utilizando el cuestionario
 
 (resultado de eyetracking)
 
-
+Además este producto se ha comprobado con el [checklist de usabilidad](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/Usability-review-B.pdf).
 
 ## 4. CONCLUSIONES
 
