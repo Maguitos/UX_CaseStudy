@@ -262,17 +262,18 @@ https://www.figma.com/design/6aF791fwLtDBTPk2tSRQsW/Landing-kerarkeo?node-id=937
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+ECOGOLLO es una aplicación móvil que trata de servir a productores y consumidores de productos ecológios para que la experiencia de compra venta, distribución y entrega sea mucho más fluida y compacta. Busca una experiencia de usuario amena y amigable. [Enlace al repositorio](https://github.com/DIU1-SMJV/UX_CaseStudy/).
 
 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
+| Usuario | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Mari  | M / 51   | Enfermera  | Media-Alta       | Emocional | Chrome (PC)       | B 
+| Raul  | H / 49   | Dibujante  | Media       | Tímido       | Chrome (PC)        | B 
+| Korah  | M(?) / 22   | Estudiante     | Media        | Emocional    | Chrome (PC)      | B 
+| Dani  | H / 23   | Estudiante  | Media       | Tímido     | Firefox (PC)        | A (Eye Tracking B)
+| Mayte | M / 59 | Profesora | Media | Optimista | Firefox (PC) | A
+| Margarita | M / 56 | Conserje | Media | Alegre | Firefox (PC) | A
+| María José | M / 63 | Conserje | Baja | Optimista | Firefox (PC) | A
 
 
 ### 4.b Diseño de las pruebas 
@@ -320,34 +321,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
 
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-
-
-<br>
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
-## Conclusiones finales & Valoración de las prácticas
-
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
 
 
 
