@@ -85,10 +85,47 @@ Se ha empleado una evaluación de tipo **formativa**, utilizando el cuestionario
 - USER4: 72,5 _(Aceptable tipo B)_
 - USER5: 90 _(Aceptable tipo A)_
 
-
-(resultado de eyetracking)
-
 Además este producto se ha comprobado con el [checklist de usabilidad](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/Usability-review-B.pdf).
+
+#### Eyetracking
+
+Solo se ha podido hacer la prueba a un usuario sobre 5 capturas de la aplicación.
+
+##### Pantalla 1 (Inicio)
+
+![GZ1](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ1.png)
+
+![GZ1-AOI](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ1-AOI.png) 
+
+Podemos ver que el usuario se ha fijado sobre todo en el botón de visualizar oferta, pero además en el logo de la aplicación y en el botón de buscar. En el botón del menú no, lo que podría decir que necesita ser más llamativo.
+
+##### Pantalla 2 (Menú)
+
+![GZ2](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ2.png)
+
+![GZ2-AOI](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ2-AOI.png)
+
+##### Pantalla 3 (Inicio de sesión)
+
+![GZ3](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ3.png)
+
+![GZ3-AOI](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ3-AOI.png)
+
+Podemos ver de nuevo que ni el menú ni el breadcrumb llaman la atención.
+
+##### Pantalla 4 (Búsqueda)
+
+![GZ4](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ4.png)
+
+![GZ4-AOI](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ4-AOI.png)
+
+El carrito no llama la atención, apuntando a que debería ser más llamativo. Esta vez el breadcrumb sí llama la atención.
+
+##### Pantalla 5 (Categorías)
+
+![GZ5](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ5.png)
+
+![GZ5-AOI](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/GZ5-AOI.png)
 
 ## 4. CONCLUSIONES
 
