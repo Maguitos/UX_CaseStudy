@@ -339,8 +339,8 @@ Se exponen aquí los resultados de las pruebas sobre los dos productos, aunque n
 Varios participantes destacaron que la reserva de cursos debería mostrarse antes de la wiki en la página principal, y que no era fácil ver que se podía llegar a un artículo de la wiki desde el bocadillo de descripción en los pines del mapa. Aunque en una wiki realmente funcional podría haber más de una manera de llegar a un artículo, por lo que a los encuestados les habría resultado más sencillo encontrar un artículo.
 
 #### Checklist de usabilidad
-[Caso A]()
-[Caso B]()
+[Caso A](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/Usability-review-A.pdf)
+[Caso B](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/Usability-review-B.pdf)
 
 Podemos ver que de acuerdo con el checklist, como con el cuestionario SUS, que el caso B es más usable que el A.
 
@@ -348,23 +348,16 @@ Podemos ver que de acuerdo con el checklist, como con el cuestionario SUS, que e
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Debido a las limitaciones de Gaze Recorder solo se ha podido evaluar a un usuario sobre 5 capturas de pantalla del producto B.
 
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Los resultados de la prueba de Eye Tracking se pueden ver en el [Usability Report](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/Usability-Report-template.md).
 
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+Disponible [aquí](https://github.com/Maguitos/UX_CaseStudy/blob/master/P4/Usability-Report-template.md).
 
 
 
